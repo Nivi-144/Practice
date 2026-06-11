@@ -1,0 +1,44 @@
+
+       h1{
+        color:black;
+       }
+       h2{
+        color: black;
+       }
+       .box{
+           width: 5000px;
+           color:rgb(96, 97, 98) ;
+           background-color: white;
+           border: solid rgb(96, 97, 98);
+           border-radius: 7px;
+           overflow: hidden;
+           position: relative;
+           padding-bottom: 60px;
+       }
+       image{
+            width:100%;
+            height: 300px;
+            object-fit: cover;
+       }
+       div ol {
+            display: flex inline;
+            gap: 10px;
+            list-style: none;
+       }
+       div ol li{
+            border: solid rgb(96, 90, 98);
+            border-radius: 20px;
+            padding: 8px 16px;
+       }
+       .box1{
+            
+            margin: 110px;
+            background-color: rgb(170, 230, 225);
+            color: rgb(7, 73, 215);
+            border-radius: 10px;
+            text-align: center;
+            width: 120px;
+            margin: auto;
+            padding:2px;
+       }
+  
