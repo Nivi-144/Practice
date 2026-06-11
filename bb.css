@@ -1,0 +1,10 @@
+.box{
+   width: 510px;  
+   color:rgb(96, 98, 98);
+   background-color: white;
+   border: solid rgb(96, 98, 98);
+   border-radius: 5px;
+   overflow: hidden;
+   position: relative;
+   padding-bottom: 20px;
+}
