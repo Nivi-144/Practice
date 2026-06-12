@@ -1,0 +1,21 @@
+:root{
+            --color: rgb(180, 161, 255);
+            --secondary-color:rgb(84, 39, 116);
+        }
+*{
+            margin: 0;
+            padding: 0;
+       
+        }
+nav ul li{
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            color: var(--color);
+            display: inline;
+            padding: 0 25px ;
+        }
+nav ul{
+            background-color: var(--secondary-color);
+        }
+body{
+            background-color: var(--color);
+        }
