@@ -1,0 +1,27 @@
+ *{
+            margin: 0;
+            padding: 0;
+       
+        }
+        nav ul li{
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            color: rgb(171, 171, 216);
+            display: inline;
+            padding: 0 25px ;
+        }
+        nav ul{
+            background-color:rgb(41, 41, 107);
+        }
+        
+        .box1{
+            height: 250px;
+            width: 250px;
+            margin: 100px;
+            background-color: rgb(191, 143, 218);
+        }
+        .box2{
+            height: 250px;
+            width: 250px;
+            margin: 100px;
+            background-color: rgb(91, 72, 125);
+        }
