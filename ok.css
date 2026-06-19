@@ -1,0 +1,59 @@
+*{
+            padding: 0;
+            margin: 0;
+            box-sizing:border-box; 
+        }
+        .yellow_nav{
+            padding: 0;
+            margin: 0;
+            background-color: rgb(221, 170, 41);
+            text-align: center;
+            font-size: x-large;
+        }
+        .white_nav{
+            display: flex;
+            margin: 2vw;
+            padding: 15px 30px;
+            height: 70px;
+            align-items: center;
+            justify-content: space-between;
+            background-color: rgb(211, 211, 208);
+            border: 2px solid gray;
+            border-radius: 5px;
+        }
+        .download_btn{
+            background-color: rgb(221, 170, 41);
+            padding: 12px 22px;
+            border: none;
+            border-radius: 5px;
+            justify-items: center;
+            align-items: center;
+            font-size: 13.5px;
+            cursor: pointer;
+        }
+        .white_nav ul {
+            display: flex;
+            gap: 30px;
+            list-style: none;
+
+        }
+        header{
+            position: sticky;
+            top: 0;
+            width: 100%;
+        }
+        footer{
+            background-color: rgb(198, 198, 198);            
+        }
+        .box1{
+            padding:20px;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        }
+        .box2{
+            background-color: black;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            padding: 20 px;
+            margin:20px ;
+        }
