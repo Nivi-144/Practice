@@ -14,7 +14,7 @@ This repository contains my daily programming practice across multiple languages
 - 🐹 Go
 - 🦀 Rust
 - 🐘 SQL
-- And more...
+- And more ...
 
 ## 📂 Repository Structure
 Each folder contains practice problems, implementations, and solutions categorized by language or topic.
