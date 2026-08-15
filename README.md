@@ -1,6 +1,3 @@
-
-
-
 # 💻 Daily Coding Practice
 
 Welcome to my coding practice repository!
