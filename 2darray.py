@@ -1,3 +1,4 @@
+
 import json
 
 matrix = json.loads(input()) # Input: ["10100","10111","11111","10010"]
