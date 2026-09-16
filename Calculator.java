@@ -10,10 +10,10 @@ public class Calculator {
         double b = sc.nextDouble();
         double result = 0;
         switch(op) {
-            case '+': result = a + b; break;
-            case '-': result = a - b; break;
-            case '*': result = a * b; break;
-            case '/': result = a / b; break;
+            case '+' : result = a + b; break;
+            case '-' : result = a - b; break;
+            case '*' : result = a * b; break;
+            case '/' : result = a / b; break;
             default: System.out.println("Invalid operator");
         }
         System.out.println("Result: " + result);
