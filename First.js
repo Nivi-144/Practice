@@ -1,3 +1,4 @@
+
 let num = parseInt(prompt("Enter a number:"));
 let persistence = 0;
 
