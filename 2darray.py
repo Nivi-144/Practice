@@ -1,6 +1,4 @@
-
 import json
-
 matrix = json.loads(input()) # Input: ["10100","10111","11111","10010"]
 if not matrix or not matrix[0]:
     print(0)
